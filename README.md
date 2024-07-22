@@ -88,17 +88,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -111,12 +100,11 @@
         h1 {
             margin-top: 15px;
         }
-    </style>
+
 </head>
 <body>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -252,7 +240,7 @@ href="shelteredsuccess.jpg"/>
             color: #333;
             margin-bottom: 20px; /* Add margin to separate paragraphs */
         }
-    </style>
+
 </head>
 <body>
 </body>
@@ -278,7 +266,7 @@ href="shelteredsuccess.jpg"/>
             max-width: 600px; /* Adjust the max-width as per your design */
             margin: 0 auto; /* Center the text if the width is less than max-width */
         }
-    </style>
+  
 </head>
 <body>    
     <style>
@@ -288,11 +276,10 @@ href="shelteredsuccess.jpg"/>
         font-weight: bold;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Choose a professional-looking font */
         }
-</style>      
+     
     <p></p>
     <p></p>
     <p></p>
     <p></p>
     <p>We transform the lives of homeless individuals by empowering them with the tools and opportunities needed for employment. 
-</body>
-</html>
+
